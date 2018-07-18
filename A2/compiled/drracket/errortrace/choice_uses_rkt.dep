@@ -1,0 +1,1 @@
+("6.11" ("52c783db05a35335fc596340312c6af177957c01" . "ea710cf5eb9719f129a80a5c5758192082151774") #"/Users/akhilgupta/Downloads/CSC324/A2/choice.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
